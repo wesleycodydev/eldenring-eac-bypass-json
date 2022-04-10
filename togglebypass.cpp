@@ -50,7 +50,8 @@ int main()
 {
     int mode;
     int mode2 = 0;
-
+	
+    std::cout << " -= Elden Ring EAC Bypass : by WesleyCody : App Ver 1.0.1 =-\n\n";
     while (true)
     {
         std::cout << "Select mode:" <<
