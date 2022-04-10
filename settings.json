@@ -1,0 +1,10 @@
+{
+  "title": "ELDEN RING™",
+  "executable": "eldenring.exe",
+  "productid": "0",
+  "sandboxid": "0",
+  "deploymentid": "0",
+  "requested_splash": "./EasyAntiCheat/SplashScreen.png",
+  "wait_for_game_process_exit": "false",
+  "logo_position": "bottom-left"
+}
